@@ -6,5 +6,5 @@ Daily python programming is one which makes our basic concepts strong. So let's 
 
 - [Sum of two numbers](https://github.com/Arun9739/Go-Python/blob/main/Daily_programming_practice/SumOfTwoNumbers.py) : This is basic arithmetic program which adds two numbers and prints their result.
 
-
+- [Full name](https://github.com/Arun9739/Go-Python/blob/main/Daily_programming_practice/FullName.py) : This is string concatenation program which prints full name by taking two strings.
 
