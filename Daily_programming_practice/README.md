@@ -12,4 +12,4 @@ Daily python programming is one which makes our basic concepts strong. So let's 
 
 - [Remainder of two numbers](https://github.com/Arun9739/Go-Python/blob/main/Daily_programming_practice/RemainderOfTwoNums.py) : This program prints remainder of two numbers.
 
-- [Print Numbers] : 
+- [Print Numbers](https://github.com/Arun9739/Go-Python/blob/main/Daily_programming_practice/PrintNumbers.py) : This program prints given 'N' number of elements.
