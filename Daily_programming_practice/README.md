@@ -14,4 +14,4 @@ Daily python programming is one which makes our basic concepts strong. So let's 
 
 - [Print Numbers](https://github.com/Arun9739/Go-Python/blob/main/Daily_programming_practice/PrintNumbers.py) : This program prints given 'N' number of elements.
 
-- [Find largest](https://github.com/Arun9739/Go-Python/blob/main/Daily_programming_practice/FindSmallest.py) :
+- [Find Largest](https://github.com/Arun9739/Go-Python/blob/main/Daily_programming_practice/FindLargest.py) : This program prints largest number of two given number.
