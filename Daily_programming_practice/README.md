@@ -8,10 +8,12 @@ Daily python programming is one which makes our basic concepts strong. So let's 
 
 - [Full name](https://github.com/Arun9739/Go-Python/blob/main/Daily_programming_practice/FullName.py) : This is string concatenation program which prints full name by taking two strings.
 
-- [Find largest](https://github.com/Arun9739/Go-Python/blob/main/Daily_programming_practice/FindLargest.py) : This program finds largest number between given two numbers.
+- [Find Largest](https://github.com/Arun9739/Go-Python/blob/main/Daily_programming_practice/FindLargest.py) : This program finds largest number between given two numbers.
 
 - [Remainder of two numbers](https://github.com/Arun9739/Go-Python/blob/main/Daily_programming_practice/RemainderOfTwoNums.py) : This program prints remainder of two numbers.
 
 - [Print Numbers](https://github.com/Arun9739/Go-Python/blob/main/Daily_programming_practice/PrintNumbers.py) : This program prints given 'N' number of elements.
 
-- [Find Largest](https://github.com/Arun9739/Go-Python/blob/main/Daily_programming_practice/FindLargest.py) : This program prints largest number of two given number.
+- [Find Smallest](https://github.com/Arun9739/Go-Python/blob/main/Daily_programming_practice/FindSmallest.py) : This program prints smallest number of two given number.
+
+- [Make Upper](https://github.com/Arun9739/Go-Python/blob/main/Daily_programming_practice/MakeUpper.py) : This program converts all the characters of given string to upper case.
