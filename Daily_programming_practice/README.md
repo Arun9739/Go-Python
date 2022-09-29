@@ -21,3 +21,5 @@ Daily python programming is one which makes our basic concepts strong. So let's 
 - [Voter Elgibility](https://github.com/Arun9739/Go-Python/blob/main/Daily_programming_practice/VoterEligibility.py) : This program takes age as input and says whether he is eligible for vote or not.
 
 - [Calculate speed](https://github.com/Arun9739/Go-Python/blob/main/Daily_programming_practice/calculate_speed.py) : This program calculates speed of a vehicle by taking distance and time as input.
+
+- [Read numbers](https://github.com/Arun9739/Go-Python/blob/main/Daily_programming_practice/ReadNumbers.py) : This program takes 'N' numbers from user and prints them.
