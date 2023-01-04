@@ -7,3 +7,4 @@
 ## Dictionary programs :
 
 ### [Create Dictionary](https://github.com/Arun9739/Go-Python/blob/main/Dictionary/Create_Dictionary.py) :
+- It is a simple program about creating a dictionary, and storing some values.
