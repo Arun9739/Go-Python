@@ -1,4 +1,6 @@
 
+# This program draws a line on given two points
+
 import matplotlib.pyplot as plt
 
 xpoints = [0, 10]
