@@ -6,5 +6,5 @@
 ## Programs :
 
 ### [Simple Stack](https://github.com/Arun9739/Go-Python/blob/main/Data%20Structures/Stack/SimpleStack.py) 
-- This is the simple program where stack of integer elemnts is taken
+- This is the simple program where stack of integer elements is taken
 - In this program, we can see push, pop and display functions performed on the stack.
